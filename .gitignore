@@ -1,0 +1,8 @@
+.idea/
+*.iml
+*.pyc
+.coverage
+*.log
+*.sqlite3
+.htaccess
+settings.env
