@@ -2,7 +2,7 @@
 set -e
 
 REGISTRY_HOST="registry.hosted-domains.com"
-REGISTRY_USER="shane"
+REGISTRY_USER="public"
 REGISTRY_REPO="nginx-static"
 
 if [ -f ".env" ];then
